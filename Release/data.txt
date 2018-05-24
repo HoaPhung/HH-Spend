@@ -1,0 +1,16 @@
+Di chuyển;Taxi;150000
+Nhà cửa;Phòng trọ;1500000
+Di chuyển;Taxi;150000
+Di chuyển;Taxi;150000
+Ăn uống;Nước mía;1500000
+Dịch vụ;Cái gì đó ;300000
+Xe cộ;Honda City ;560000
+Nhu yếu;Candy;150000
+Di chuyển;Grap;1500000
+Di chuyển;Grap;1500000
+Di chuyển;Grap;1500000
+Dịch vụ;Điện ;150000
+Nhu yếu;Kem đánh răng;150000
+Ăn uống;Bánh tráng;20000
+Ăn uống;Trà sữa;40000
+Ăn uống;Bánh kẹo;100000
